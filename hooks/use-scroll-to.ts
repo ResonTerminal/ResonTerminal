@@ -6,7 +6,7 @@ export function useScrollTo() {
 
   function scrollTo(options: ValueAnimationTransition = {}) {
     if (!ref.current) return;
-
+ 
     let defaultOptions: ValueAnimationTransition = {
       type: "spring",
       bounce: 0,
