@@ -3,7 +3,7 @@ export const domain =
     ? "https://resonterminal.together.ai"
     : process.env.VERCEL_BRANCH_URL
       ? `https://${process.env.VERCEL_BRANCH_URL}`
-      : process.env.NEXT_PUBLIC_VERCEL_URL
+      : process.env.NEXT_PUBLIC_VERCEL_URL 
         ? `https://${process.env.NEXT_PUBLIC_VERCEL_URL}`
         : process.env.NEXT_PUBLIC_DEVELOPMENT_URL
           ? process.env.NEXT_PUBLIC_DEVELOPMENT_URL
