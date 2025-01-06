@@ -1,6 +1,6 @@
-<a href="https://www.resonterminal.io">
-  <img alt="resinterminal" src="./public/og-image.png">
-  <h1 align="center">resinterminal</h1>
+
+  <h1 align="center">resinterminal</![resontermbanner2](https://github.com/user-attachments/assets/478c1290-bb88-4239-97dd-79252999d0f8)
+h1>
 </a>
 
 <p align="center">
