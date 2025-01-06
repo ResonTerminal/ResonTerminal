@@ -1,11 +1,5 @@
 
-  <h1 align="center">resinterminal</![resontermbanner2](https://github.com/user-attachments/assets/478c1290-bb88-4239-97dd-79252999d0f8)
-h1>
-</a>
-
-<p align="center">
-  An open source Claude Artifacts – generate small apps with one prompt. Powered by Resin 3 405B & Together.ai.
-</p>
+![resontermbanner2](https://github.com/user-attachments/assets/a51c13eb-0dcc-4cd9-9ecf-e76a7a2774ae)
 
 ## Tech stack
 
